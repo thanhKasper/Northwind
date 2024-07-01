@@ -1,0 +1,1 @@
+- This will store all static contents (images, videos, css, static HTML pages, CSS).

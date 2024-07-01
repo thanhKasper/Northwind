@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yhS9oYWDbBCmUbqIBSrh0+CaC+O3aLbV7nAdZx79/GM=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "D:\\Self Project\\CSharp\\Northwind\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Self Project\\CSharp\\Northwind\\Northwind.Web\\wwwroot\\not_index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Self Project\\CSharp\\Northwind\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "not_index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\not_index.html"
+    },
+    {
+      "Identity": "D:\\Self Project\\CSharp\\Northwind\\Northwind.Web\\wwwroot\\README.md",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Self Project\\CSharp\\Northwind\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "README.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\README.md"
+    }
+  ]
+}
